@@ -4,7 +4,7 @@ App to solve sudoku puzzle(entry level)
 
 Instructions
 1.Code runs on Android studio
-2.Sample sudoku puzzle Data is hard coded in the code itself (SudokuFragment.java).We change the sample data to run app for multiple samples
+2.Sample sudoku puzzle Data is hard coded in the code itself (SudokuFragment.java).We change the sample data to run app for multiple samples.In sample data 0 is referred as no data
  
 public class SudokuFragment extends Fragment {
     private RecyclerView _recyclerView;
